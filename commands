@@ -18,4 +18,11 @@ Creating branches
 4. git merge <source branch> < destination branch) 
 5. if im in master branch, i want merge files from test branch to master branch then
    git merge test
-6. 
+6. git stash
+7. git stash list
+8. git show <stash Number>
+9.git stash pop <stash Number>
+10.git stash apply
+11. git stash -p ("Partial Stash")
+12.git stash drop <stash Number>
+13. git stash clear 
