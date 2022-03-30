@@ -18,3 +18,4 @@ Creating branches
 4. git merge <source branch> < destination branch) 
 5. if im in master branch, i want merge files from test branch to master branch then
    git merge test
+6. 
