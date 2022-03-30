@@ -1,0 +1,20 @@
+1 touch 		 for adding files
+2. rm   		 for removing files from local and working directory
+   rm --cached		for  removing files only at local respository
+3. .gitignore 	for ignoring files
+4.log 		for history of commands" example= git log
+5.diff <filename>	for checked unstaged files	
+6. git checkout <filename> recently edits will be unsaved.	
+7.git reset --mixed HEAD~1 (" file will removed and be at working area)	
+8. git reset --soft HEAD~1 (" file will removed and be at staging area)
+9. git reset --hard HEAD~1 (" file will removed permanently")
+10. git ls-files (to check files in local repo")
+Creating branches
+
+1.git branch (" to check how many branches existed")
+2.git checkout -b test (" here, file "test" will be created, and all the files which are already existed 
+                      in master branch will be copy to test branch")					
+3. git checkout test ( jump to test branch from master branch)
+4. git merge <source branch> < destination branch) 
+5. if im in master branch, i want merge files from test branch to master branch then
+   git merge test
