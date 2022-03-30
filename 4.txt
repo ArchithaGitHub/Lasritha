@@ -1,2 +1,3 @@
 Fortunately for testing purpose i want to delete the first line to check it, iam going to save the file.
-this is very nice i successfully push the file first time
+this is very nice i successfully push the file.
+chekcing the conflict while merging the files from one brnach to another branch
