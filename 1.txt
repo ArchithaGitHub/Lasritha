@@ -1,2 +1,4 @@
 hai hello how r u, how long have u been working here. How is your experience after adding in Git hub repo
+why dont u go directly with out using git push --origin master command.
+let me check this time whether u r gooing or not
 
